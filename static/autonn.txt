@@ -1,0 +1,33 @@
+59.215, 0.473, 28.98
+58.761, -1.463, 65.07
+57.838, -3.234, 86.461
+56.718, -4.89, 92.072
+55.488, -6.467, 93.799
+54.194, -7.992, 96.102
+52.858, -9.48, 95.051
+51.49, -10.939, 92.34
+50.1, -12.377, 89.547
+48.697, -13.802, 86.664
+47.281, -15.215, 83.682
+45.86, -16.622, 80.589
+44.436, -18.027, 77.373
+43.013, -19.431, 74.018
+41.593, -20.84, 70.503
+40.18, -22.256, 66.803
+38.779, -23.683, 62.886
+37.396, -25.127, 58.708
+36.034, -26.592, 54.209
+34.708, -28.089, 49.302
+33.426, -29.624, 43.849
+32.222, -31.221, 37.614
+31.14, -32.902, 30.117
+30.3, -34.712, 20
+30.026, -36.163, 0
+30.026, -36.163, 0
+26.322, -55.818, 0
+endData
+127
+100
+200
+59.215, 0.473, 59.215, -7.401, 30.026, -28.289, 30.026, -36.163
+#PATH.JERRYIO-DATA {"appVersion":"0.8.3","format":"LemLib v0.5","gc":{"robotWidth":11.5,"robotHeight":10,"robotIsHolonomic":false,"showRobot":true,"uol":2.54,"pointDensity":2,"controlMagnetDistance":0.7750015500031,"fieldImage":{"displayName":"V5RC 2025 - High Stakes","signature":"V5RC 2025 - High Stakes","origin":{"__type":"built-in"}},"coordinateSystem":"VEX Gaming Positioning System"},"paths":[{"segments":[{"controls":[{"uid":"XR4WKQluxZ","x":59.21498131656056,"y":0.473462184037788,"lock":false,"visible":true,"heading":0,"__type":"end-point"},{"uid":"nX6l49IiOg","x":59.21498131656056,"y":-7.400553563993711,"lock":false,"visible":true,"__type":"control"},{"uid":"8jIwbxfvXw","x":30.026198712191228,"y":-28.289476785139115,"lock":false,"visible":true,"__type":"control"},{"uid":"FP8MuKA2X5","x":30.026198712191228,"y":-36.16349253317061,"lock":false,"visible":true,"heading":0,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"aS6YYPhZmQ"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":20,"to":100},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.1},"maxDecelerationRate":127},"name":"Path","uid":"msPZn4AHwK","lock":false,"visible":true}]}
